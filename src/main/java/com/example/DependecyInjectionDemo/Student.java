@@ -53,5 +53,7 @@ public class Student {
 		System.out.println("Student Object returned successfully");
 		coursedetails.tech();
 	}
+	
+	/* Student class is using the object of the Technologies class*/
 
 }
